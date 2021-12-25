@@ -16,9 +16,8 @@ Conhecimentos<br>
 NodeJs | Sql Server | Flutter | Firebase | MVC | Express | EJS | HTML | CSS
 </p>
 
-<!--### Meu Currículo e linkedin
-[{**Arquivo em PDF**}]() 
-[{**Arquivo Word**}]()<br>-->
+### Meu Currículo e linkedin
+[{**Arquivo em PDF**}](https://github.com/Thiagom790/thiagom790/blob/main/Thiago%20Teixeira.pdf)
 
 ------------
 
