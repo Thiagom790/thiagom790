@@ -16,10 +16,9 @@ Conhecimentos<br>
 NodeJs | Sql Server | Flutter | Firebase | MVC | Express | EJS | HTML | CSS
 </p>
 
-### Meu Currículo e linkedin
+<!--### Meu Currículo e linkedin
 [{**Arquivo em PDF**}]() 
-[{**Arquivo Word**}]()<br> 
-
+[{**Arquivo Word**}]()<br>-->
 
 ------------
 
