@@ -18,6 +18,7 @@ NodeJs | Sql Server | Flutter | Firebase | MVC | Express | EJS | HTML | CSS
 
 ### Meu Currículo e linkedin
 [{**Arquivo em PDF**}](https://github.com/Thiagom790/thiagom790/blob/main/Thiago%20Teixeira.pdf)
+[{**Linkedin**}](https://www.linkedin.com/in/t-marques/)
 
 ------------
 
