@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Thiago</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <div align="center">
   <a href="https://github.com/Thiagom790">
@@ -8,12 +8,19 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <!-- Frontend -->
   <img align="center" alt="thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="thiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <!-- Backend -->
+  <img align="center" alt="thiago-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="thiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="thiago-Dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
 </div>
+
   
   ##
  
